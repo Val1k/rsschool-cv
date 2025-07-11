@@ -33,3 +33,15 @@ function multiply(a, b){
 # 6. Experience
 
 <https://github.com/Val1k/rsschool-cv>
+
+# 7. Courses
+
+   Html and CSS Tutorials on the HTMLAcademy
+
+   JavaScript Manual on learnjavascript.ru (in progress)
+
+# 8. Languages
+
+   Russian - Native
+  
+   English - A2 (Elementary )- B1 (Pre-Intermediate)
