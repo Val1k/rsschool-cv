@@ -21,3 +21,15 @@ The most important thing is to keep going. I'm ready for challenges, ready to le
    Javascript 2025 - beginners
 
    GIT - beginners
+
+# 5. Code Example
+
+```
+function multiply(a, b){
+  return a * b 
+}
+```
+
+# 6. Experience
+
+<https://github.com/Val1k/rsschool-cv>
