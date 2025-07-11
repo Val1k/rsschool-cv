@@ -36,7 +36,7 @@ function multiply(a, b){
 
 # 7. Courses
 
-   Html and CSS Tutorials on the HTMLAcademy (in)
+   Html and CSS Tutorials on the HTMLAcademy (in progress)
 
    JavaScript Manual on learnjavascript.ru (in progress)
 
